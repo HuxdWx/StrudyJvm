@@ -2,6 +2,7 @@ package org.huxd.jvm.jdk;
 
 import org.huxd.jvm.hotspot.src.share.oops.InstanceKlass;
 import org.huxd.jvm.hotspot.src.share.oops.MethodInfo;
+import org.huxd.jvm.hotspot.src.share.prims.JavaNativeInterface;
 import org.huxd.jvm.hotspot.src.share.vm.classfile.BootClassLoader;
 
 /**

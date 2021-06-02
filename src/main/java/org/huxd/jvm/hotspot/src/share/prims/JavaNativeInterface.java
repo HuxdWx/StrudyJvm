@@ -15,6 +15,7 @@ public class JavaNativeInterface {
     }
 
     public static MethodInfo getMethodId(InstanceKlass mainKlass, String string, String string2) {
+        
         return null;
     }
     
